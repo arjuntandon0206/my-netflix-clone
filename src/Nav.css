@@ -1,0 +1,10 @@
+.nav{
+    z-index: 1;
+}
+
+.logo{
+    width:10%;
+    position: fixed;
+    margin-top: 20px;
+    margin-left: 20px;
+}
